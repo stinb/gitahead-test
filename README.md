@@ -1,3 +1,3 @@
 # gitahead-test
 
-This is a sandbox for testing Gitahead.
+This is a sandbox for testing GitAhead.
